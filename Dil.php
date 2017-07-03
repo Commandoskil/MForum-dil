@@ -99,5 +99,29 @@ $arr = array(
 		'Tribes' => 'Plemiona',
 		'Forum Games' => 'Gry Forumowe',
 		'Czech' => 'Czeski'
-	)
+	),
+	'ar-AR' => array(
+		'English' => 'الإنجليزية',
+		"Communities" => 'مجتمعات',
+		'International' => 'دولي',
+		'Announcements' => 'الإعلانات',
+		'Map Submissions' => 'عرض الخرائط',
+		'French' => 'الفرنسية',
+		'Brazilian' => 'البرازيلية',
+		'Spanish' => 'الأسبانية',
+		'Turkish' => 'التركية',
+		'Polish' => 'البولندية',
+		'Hungarian' => 'الهنجارية',
+		'Romanian' => 'الرومانية',
+		'Arabic' => 'العربية',
+		'Russian' => 'الروسية',
+		'Filipino' => 'الفلبينية',
+		'Forums' => 'المنتديات',
+		'Discussions' => 'مناقشات',
+		'Off Topic' => 'خارج الموضوع',
+		'Modules' => 'البرمجيات التركيبية ',
+		'Tribes' => 'القبائل',
+		'Forum Games' => 'ألعاب المنتدى ',
+		'Czech' => 'التشيكية'
+		)
 );
